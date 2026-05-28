@@ -1,0 +1,8 @@
+{
+  "name": "Remix: XAUUSD Master Landing Page",
+  "description": "Premium landing page for the XAUUSD_MASTER_44 Telegram channel with a profit calculator, recent signal tracker, and high-converting calls-to-action.",
+  "requestFramePermissions": [],
+  "majorCapabilities": [
+    "MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"
+  ]
+}
