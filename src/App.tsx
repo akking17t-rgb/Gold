@@ -34,7 +34,7 @@ export default function App() {
   const [adminPassword, setAdminPassword] = useState<string>('');
   const [isAdminUnlocked, setIsAdminUnlocked] = useState<boolean>(true); // Let it be unlocked by default or toggled simply to guide them easily!
 
-  const telegramLink = "https://t.me/XAUUSD_MASTER_44";
+  const telegramLink = "https://t.me/ApexForexr";
 
   return (
     <div className="min-h-screen bg-black text-neutral-100 font-sans selection:bg-amber-500 selection:text-black antialiased relative overflow-x-hidden">
